@@ -1,3 +1,6 @@
 test.csv
 train.csv
 results
+.DS_Store
+.ipynb_checkpoints
+.git
